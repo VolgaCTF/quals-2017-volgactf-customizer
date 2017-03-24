@@ -1,6 +1,6 @@
 {
   "name": "quals-2017-volgactf-customizer",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
